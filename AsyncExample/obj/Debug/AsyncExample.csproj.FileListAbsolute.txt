@@ -1,0 +1,10 @@
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\bin\Debug\AsyncExample.exe.config
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\bin\Debug\AsyncExample.exe
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\bin\Debug\AsyncExample.pdb
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.csprojAssemblyReference.cache
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.Form1.resources
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.Properties.Resources.resources
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.csproj.GenerateResource.cache
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.csproj.CoreCompileInputs.cache
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.exe
+E:\DCTC\Fall2020\NET2\AsyncExample\AsyncExample\obj\Debug\AsyncExample.pdb
